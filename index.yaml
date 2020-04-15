@@ -30,15 +30,3 @@ entries:
     urls:
     - https://github.com/ambiknai/ibm-charts/blob/gh-pages/charts/ibm-object-storage-plugin-2.0.0.tgz
     version: 2.0.0
-  nodejs-ex-k:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-14T09:22:58.445112284-07:00"
-    description: A Helm chart for Kubernetes
-    digest: 64b36fee719567e2aae8cb6186ba02a56dc62a90df71af7f90cc1d9d2cd1fb25
-    name: nodejs-ex-k
-    type: application
-    urls:
-    - https://redhat-developer.github.com/redhat-helm-charts/charts/nodejs-ex-k-0.1.1.tgz
-    version: 0.1.1
-generated: "2020-04-14T09:22:58.438911369-07:00"
