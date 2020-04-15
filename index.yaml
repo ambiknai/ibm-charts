@@ -28,7 +28,7 @@ entries:
       name: IBM
     name: ibm-object-storage-plugin
     urls:
-    - https://redhat-developer.github.com/redhat-helm-charts/charts/ibm-object-storage-plugin-2.0.0.tgz
+    - https://github.com/ambiknai/ibm-charts/blob/gh-pages/charts/ibm-object-storage-plugin-2.0.0.tgz
     version: 2.0.0
   nodejs-ex-k:
   - apiVersion: v2
